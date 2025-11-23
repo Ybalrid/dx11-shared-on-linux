@@ -4,3 +4,6 @@
 [submodule "wine"]
 	path = wine
 	url = https://github.com/Ybalrid/wine
+[submodule "d3d11_sharing_test"]
+	path = d3d11_sharing_test
+	url = https://github.com/Ybalrid/d3d11_sharing_test
