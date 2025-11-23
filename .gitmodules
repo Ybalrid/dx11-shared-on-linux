@@ -1,0 +1,6 @@
+[submodule "dxvk"]
+	path = dxvk
+	url = https://github.com/Ybalrid/dxvk
+[submodule "wine"]
+	path = wine
+	url = https://github.com/Ybalrid/wine
